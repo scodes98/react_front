@@ -11,7 +11,7 @@ const Dashboard = () => {
             <div className='container'>
                 <div className='Box'>
                     <div className="heading">
-                        <h4 >Pub Sub Notification for Stock News abc</h4>
+                        <h4 >Pub Sub Notification for Stock News 123</h4>
                     </div>
                 </div>
                 
