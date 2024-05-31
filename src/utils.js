@@ -1,7 +1,6 @@
-// export const BASE_URL = 'http://18.189.29.78:8080/api/v1/';
+export const BASE_URL = 'http://54.153.52.213:8080/api/v1/';
 
-export const BASE_URL = 'http://localhost:8080/api/v1/';
-
+// export const BASE_URL = 'http://localhost:8080/api/v1/';
 
 export const PUBLISHER = 'publisher/';
 export const PUBLISHER_LOGIN_URL =  BASE_URL + PUBLISHER + 'validatePublisher';
